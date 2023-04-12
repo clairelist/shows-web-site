@@ -5,6 +5,8 @@ function Show(){
             <p>Director</p>
             <p>Airtime (start - end)</p>
             <p>Leading actor(s)</p>
+            <p>Num episodes</p>
+            <p>Brief description (250 words or less)</p>
 
         </div>
     )

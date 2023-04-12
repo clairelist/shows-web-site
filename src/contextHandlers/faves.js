@@ -1,1 +1,3 @@
 //I handle the context of favorites!
+
+//a user clicks to add to faves, then when click on favorites, only the fave shows are rendered. Hmmm./.....
